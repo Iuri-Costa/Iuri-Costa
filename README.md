@@ -36,6 +36,11 @@
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Iuri-Costa&theme=tokyonight" />
 </div>
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iuri-Costa&layout=compact&theme=default&hide_border=true" 
+  />
+</div>
 
 ---
 
